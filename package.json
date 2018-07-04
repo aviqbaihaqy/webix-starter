@@ -1,5 +1,5 @@
 {
-  "name": "keuangan-asset",
+  "name": "webix-starter",
   "version": "0.0.1",
   "description": "Demo of Admin interface",
   "main": "sources/admin.js",
